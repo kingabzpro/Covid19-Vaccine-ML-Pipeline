@@ -1,0 +1,73 @@
+{
+    "name": "Vaccine",
+    "parameters": {},
+    "settings": {
+        "auto_eviction": false,
+        "data_passing_memory_size": "1GB"
+    },
+    "steps": {
+        "713242d6-70a9-4987-9ad1-ab0be29e580c": {
+            "environment": "4e3e3b13-882e-47db-b8f2-03a87620ea0d",
+            "file_path": "load-data.py",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    40.5,
+                    201
+                ]
+            },
+            "parameters": {},
+            "title": "Load Data",
+            "uuid": "713242d6-70a9-4987-9ad1-ab0be29e580c"
+        },
+        "7f97837e-9666-4d9f-a112-1b986272b4d5": {
+            "environment": "4e3e3b13-882e-47db-b8f2-03a87620ea0d",
+            "file_path": "preprocessing.ipynb",
+            "incoming_connections": [
+                "713242d6-70a9-4987-9ad1-ab0be29e580c"
+            ],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    307.5,
+                    332
+                ]
+            },
+            "parameters": {},
+            "title": "Preprocessing",
+            "uuid": "7f97837e-9666-4d9f-a112-1b986272b4d5"
+        },
+        "f791bbf9-ae5d-484e-b28c-94ad7a285cee": {
+            "environment": "4e3e3b13-882e-47db-b8f2-03a87620ea0d",
+            "file_path": "EDA.ipynb",
+            "incoming_connections": [
+                "713242d6-70a9-4987-9ad1-ab0be29e580c"
+            ],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    311.5,
+                    74
+                ]
+            },
+            "parameters": {},
+            "title": "EDA",
+            "uuid": "f791bbf9-ae5d-484e-b28c-94ad7a285cee"
+        }
+    },
+    "uuid": "828d8281-b7a3-4b13-b885-d788d79bcb01",
+    "version": "1.0.0"
+}
