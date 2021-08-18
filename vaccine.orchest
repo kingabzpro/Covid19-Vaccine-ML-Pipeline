@@ -1,0 +1,31 @@
+{
+    "name": "Vaccine",
+    "parameters": {},
+    "settings": {
+        "auto_eviction": false,
+        "data_passing_memory_size": "1GB"
+    },
+    "steps": {
+        "713242d6-70a9-4987-9ad1-ab0be29e580c": {
+            "environment": "4e3e3b13-882e-47db-b8f2-03a87620ea0d",
+            "file_path": "load-data.py",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    201.5,
+                    237
+                ]
+            },
+            "parameters": {},
+            "title": "Load Data",
+            "uuid": "713242d6-70a9-4987-9ad1-ab0be29e580c"
+        }
+    },
+    "uuid": "828d8281-b7a3-4b13-b885-d788d79bcb01",
+    "version": "1.0.0"
+}
