@@ -11,6 +11,6 @@ bcell_sars = pd.concat([bcell, sars], axis=0, ignore_index=True)
 
 # Output the housing data so the next steps can retrieve it.
 print("Outputting converted Vaccine data...")
-orchest.output((bcell_sars, covid), name="data")
+orchest.output((bcell, covid, sars, bcell_sars), name="data")
 print(bcell_sars.shape)
 print("Success!")

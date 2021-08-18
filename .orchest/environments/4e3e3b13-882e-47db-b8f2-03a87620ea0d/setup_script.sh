@@ -4,3 +4,4 @@
 
 # E.g. pip install tensorflow
 
+pip install imblearn
