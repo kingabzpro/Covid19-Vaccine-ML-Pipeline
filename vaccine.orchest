@@ -6,12 +6,54 @@
         "data_passing_memory_size": "1GB"
     },
     "steps": {
+        "0aa6b419-bad4-40d6-8aeb-66cb29b51097": {
+            "environment": "4e3e3b13-882e-47db-b8f2-03a87620ea0d",
+            "file_path": "naive_bayes.ipynb",
+            "incoming_connections": [
+                "7f97837e-9666-4d9f-a112-1b986272b4d5"
+            ],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    870.25,
+                    102.25
+                ]
+            },
+            "parameters": {},
+            "title": "Naive Bayes",
+            "uuid": "0aa6b419-bad4-40d6-8aeb-66cb29b51097"
+        },
+        "6891974e-0cea-4107-ad70-2c988813c219": {
+            "environment": "4e3e3b13-882e-47db-b8f2-03a87620ea0d",
+            "file_path": "Random_forest.ipynb",
+            "incoming_connections": [
+                "7f97837e-9666-4d9f-a112-1b986272b4d5"
+            ],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    869,
+                    234.5
+                ]
+            },
+            "parameters": {},
+            "title": "Random Forest ",
+            "uuid": "6891974e-0cea-4107-ad70-2c988813c219"
+        },
         "713242d6-70a9-4987-9ad1-ab0be29e580c": {
-            "environment": "",
+            "environment": "4e3e3b13-882e-47db-b8f2-03a87620ea0d",
             "file_path": "load-data.py",
             "incoming_connections": [],
             "kernel": {
-                "display_name": "",
+                "display_name": "Python 3",
                 "name": "python"
             },
             "meta_data": {
@@ -38,29 +80,183 @@
             "meta_data": {
                 "hidden": false,
                 "position": [
-                    307.5,
-                    332
+                    310.5,
+                    334.5652173913044
                 ]
             },
             "parameters": {},
             "title": "Preprocessing",
             "uuid": "7f97837e-9666-4d9f-a112-1b986272b4d5"
         },
-        "f791bbf9-ae5d-484e-b28c-94ad7a285cee": {
-            "environment": "",
-            "file_path": "EDA.ipynb",
+        "87121cf7-c5ad-46f6-89ae-cf76fbcc8e50": {
+            "environment": "4e3e3b13-882e-47db-b8f2-03a87620ea0d",
+            "file_path": "evaluation.ipynb",
             "incoming_connections": [
-                "713242d6-70a9-4987-9ad1-ab0be29e580c"
+                "6891974e-0cea-4107-ad70-2c988813c219",
+                "0aa6b419-bad4-40d6-8aeb-66cb29b51097",
+                "e2259e56-d153-4b48-893c-4b1712ea6883",
+                "b1c33b07-91d0-4e57-a076-3fa6fffd3a7e"
             ],
             "kernel": {
-                "display_name": "",
+                "display_name": "Python 3",
                 "name": "python"
             },
             "meta_data": {
                 "hidden": false,
                 "position": [
-                    311.5,
-                    74
+                    1190.75,
+                    182.5
+                ]
+            },
+            "parameters": {},
+            "title": "Evaluation",
+            "uuid": "87121cf7-c5ad-46f6-89ae-cf76fbcc8e50"
+        },
+        "a3464980-df9a-47f8-8d2e-daf4aaa8f4c4": {
+            "environment": "4e3e3b13-882e-47db-b8f2-03a87620ea0d",
+            "file_path": "ensemble.ipynb",
+            "incoming_connections": [
+                "b1c33b07-91d0-4e57-a076-3fa6fffd3a7e",
+                "e2259e56-d153-4b48-893c-4b1712ea6883",
+                "6891974e-0cea-4107-ad70-2c988813c219",
+                "0aa6b419-bad4-40d6-8aeb-66cb29b51097"
+            ],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    1197,
+                    366.25
+                ]
+            },
+            "parameters": {},
+            "title": "Ensemble",
+            "uuid": "a3464980-df9a-47f8-8d2e-daf4aaa8f4c4"
+        },
+        "b1c33b07-91d0-4e57-a076-3fa6fffd3a7e": {
+            "environment": "4e3e3b13-882e-47db-b8f2-03a87620ea0d",
+            "file_path": "LightGBM.ipynb",
+            "incoming_connections": [
+                "7f97837e-9666-4d9f-a112-1b986272b4d5"
+            ],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    869.6190476190477,
+                    508.4761904761905
+                ]
+            },
+            "parameters": {},
+            "title": "LightGBM",
+            "uuid": "b1c33b07-91d0-4e57-a076-3fa6fffd3a7e"
+        },
+        "b7544b5e-542b-41e1-aa88-bbcd737d41ef": {
+            "environment": "4e3e3b13-882e-47db-b8f2-03a87620ea0d",
+            "file_path": "comparison.ipynb",
+            "incoming_connections": [
+                "a3464980-df9a-47f8-8d2e-daf4aaa8f4c4",
+                "87121cf7-c5ad-46f6-89ae-cf76fbcc8e50"
+            ],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    1517.1046511627908,
+                    281.7906976744186
+                ]
+            },
+            "parameters": {},
+            "title": "Comparison ",
+            "uuid": "b7544b5e-542b-41e1-aa88-bbcd737d41ef"
+        },
+        "ca71c67a-b5e4-4a66-9dd2-af96d16efe41": {
+            "environment": "4e3e3b13-882e-47db-b8f2-03a87620ea0d",
+            "file_path": "automl.ipynb",
+            "incoming_connections": [
+                "713242d6-70a9-4987-9ad1-ab0be29e580c"
+            ],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    309.5,
+                    202.39130434782606
+                ]
+            },
+            "parameters": {},
+            "title": "AutoML",
+            "uuid": "ca71c67a-b5e4-4a66-9dd2-af96d16efe41"
+        },
+        "de9b0dad-b97d-47ef-ab24-6b34fa4725f6": {
+            "environment": "4e3e3b13-882e-47db-b8f2-03a87620ea0d",
+            "file_path": "results.ipynb",
+            "incoming_connections": [
+                "ca71c67a-b5e4-4a66-9dd2-af96d16efe41"
+            ],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    566.8478260869565,
+                    2.8695652173912833
+                ]
+            },
+            "parameters": {},
+            "title": "Result",
+            "uuid": "de9b0dad-b97d-47ef-ab24-6b34fa4725f6"
+        },
+        "e2259e56-d153-4b48-893c-4b1712ea6883": {
+            "environment": "4e3e3b13-882e-47db-b8f2-03a87620ea0d",
+            "file_path": "CatBoost.ipynb",
+            "incoming_connections": [
+                "7f97837e-9666-4d9f-a112-1b986272b4d5"
+            ],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    869,
+                    371.25
+                ]
+            },
+            "parameters": {},
+            "title": "CatBoost",
+            "uuid": "e2259e56-d153-4b48-893c-4b1712ea6883"
+        },
+        "f791bbf9-ae5d-484e-b28c-94ad7a285cee": {
+            "environment": "4e3e3b13-882e-47db-b8f2-03a87620ea0d",
+            "file_path": "EDA.ipynb",
+            "incoming_connections": [
+                "713242d6-70a9-4987-9ad1-ab0be29e580c"
+            ],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    306.5,
+                    73.69565217391306
                 ]
             },
             "parameters": {},
