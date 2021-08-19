@@ -163,3 +163,2102 @@ Search finished after 00:24
 08/19/2021 10:15:18 AM - INFO - automl_search.py: Best pipeline Log Loss Binary: 0.385990
 08/19/2021 10:15:18 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
 08/19/2021 10:15:18 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:36:34 AM - INFO - automl_search.py: Generating pipelines to search over...
+08/19/2021 10:36:35 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:36:35 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:36:35 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:36:35 AM - DEBUG - automl_search.py: allowed_estimators set to ['Decision Tree Classifier', 'LightGBM Classifier', 'Extra Trees Classifier', 'Elastic Net Classifier', 'CatBoost Classifier', 'XGBoost Classifier', 'Random Forest Classifier', 'Logistic Regression Classifier']
+08/19/2021 10:36:35 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:36:35 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:36:35 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:36:35 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:36:35 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:36:35 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:36:35 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:36:35 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:36:35 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:36:35 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:36:35 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:36:35 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:36:35 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:36:35 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:36:35 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:36:35 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:36:35 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:36:35 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:36:35 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:36:35 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:36:35 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:36:35 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:36:35 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:36:35 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:36:35 AM - INFO - automl_search.py: 8 pipelines ready for search.
+08/19/2021 10:36:35 AM - DEBUG - automl_search.py: allowed_pipelines set to ['Decision Tree Classifier w/ Imputer', 'LightGBM Classifier w/ Imputer', 'Extra Trees Classifier w/ Imputer', 'Elastic Net Classifier w/ Imputer + Standard Scaler', 'CatBoost Classifier w/ Imputer', 'XGBoost Classifier w/ Imputer', 'Random Forest Classifier w/ Imputer', 'Logistic Regression Classifier w/ Imputer + Standard Scaler']
+08/19/2021 10:36:35 AM - DEBUG - automl_search.py: allowed_model_families set to [ModelFamily.XGBOOST, ModelFamily.RANDOM_FOREST, ModelFamily.CATBOOST, ModelFamily.EXTRA_TREES, ModelFamily.LIGHTGBM, ModelFamily.DECISION_TREE, ModelFamily.LINEAR_MODEL]
+08/19/2021 10:36:35 AM - INFO - logger.py: 
+*****************************
+08/19/2021 10:36:35 AM - INFO - logger.py: * Beginning pipeline search *
+08/19/2021 10:36:35 AM - INFO - logger.py: *****************************
+08/19/2021 10:36:35 AM - INFO - logger.py: 
+08/19/2021 10:36:35 AM - INFO - automl_search.py: Optimizing for Log Loss Binary. 
+08/19/2021 10:36:35 AM - INFO - automl_search.py: Lower score is better.
+
+08/19/2021 10:36:35 AM - INFO - automl_search.py: Using SequentialEngine to train and score pipelines.
+08/19/2021 10:36:35 AM - INFO - automl_search.py: Will stop searching for new pipelines after 300 seconds.
+
+08/19/2021 10:36:35 AM - INFO - automl_search.py: Allowed model families: xgboost, random_forest, catboost, extra_trees, lightgbm, decision_tree, linear_model
+
+08/19/2021 10:36:36 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:36:36 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:36:36 AM - INFO - automl_search.py: Evaluating Baseline Pipeline: Mode Baseline Binary Classification Pipeline
+08/19/2021 10:36:38 AM - INFO - engine_base.py: Mode Baseline Binary Classification Pipeline:
+08/19/2021 10:36:38 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:36:38 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:36:38 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:36:38 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:36:38 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.000)
+08/19/2021 10:36:38 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:36:38 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 9.471
+08/19/2021 10:36:38 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:36:38 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:36:38 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:36:38 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.000)
+08/19/2021 10:36:38 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:36:38 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 9.471
+08/19/2021 10:36:38 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:36:38 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:36:38 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:36:38 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.000)
+08/19/2021 10:36:38 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:36:38 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 9.471
+08/19/2021 10:36:38 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 9.471
+08/19/2021 10:36:38 AM - INFO - logger.py: 
+*****************************
+08/19/2021 10:36:38 AM - INFO - logger.py: * Evaluating Batch Number 1 *
+08/19/2021 10:36:38 AM - INFO - logger.py: *****************************
+08/19/2021 10:36:38 AM - INFO - logger.py: 
+08/19/2021 10:36:41 AM - INFO - engine_base.py: Elastic Net Classifier w/ Imputer + Standard Scaler:
+08/19/2021 10:36:41 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:36:41 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:36:41 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:36:41 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:36:41 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.201)
+08/19/2021 10:36:41 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:36:41 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.557
+08/19/2021 10:36:41 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:36:41 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:36:41 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:36:41 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.236)
+08/19/2021 10:36:41 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:36:41 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.558
+08/19/2021 10:36:41 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:36:41 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:36:41 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:36:41 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.230)
+08/19/2021 10:36:41 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:36:41 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.565
+08/19/2021 10:36:41 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.560
+08/19/2021 10:36:44 AM - INFO - engine_base.py: Decision Tree Classifier w/ Imputer:
+08/19/2021 10:36:44 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:36:44 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:36:44 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:36:44 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:36:44 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (-0.000)
+08/19/2021 10:36:44 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:36:44 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.651
+08/19/2021 10:36:44 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:36:44 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:36:44 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:36:44 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (-0.000)
+08/19/2021 10:36:44 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:36:44 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.555
+08/19/2021 10:36:44 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:36:44 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:36:44 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:36:44 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (-0.000)
+08/19/2021 10:36:44 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:36:44 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.585
+08/19/2021 10:36:44 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.597
+08/19/2021 10:36:48 AM - INFO - engine_base.py: Random Forest Classifier w/ Imputer:
+08/19/2021 10:36:48 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:36:48 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:36:48 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:36:48 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:36:48 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.297)
+08/19/2021 10:36:48 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:36:48 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.454
+08/19/2021 10:36:48 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:36:48 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:36:48 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:36:48 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.291)
+08/19/2021 10:36:48 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:36:48 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.456
+08/19/2021 10:36:48 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:36:48 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:36:48 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:36:48 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.314)
+08/19/2021 10:36:48 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:36:48 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.470
+08/19/2021 10:36:48 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.460
+08/19/2021 10:36:50 AM - INFO - engine_base.py: LightGBM Classifier w/ Imputer:
+08/19/2021 10:36:50 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:36:50 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:36:50 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:36:50 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:36:50 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.322)
+08/19/2021 10:36:50 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:36:50 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.382
+08/19/2021 10:36:50 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:36:50 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:36:50 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:36:50 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.365)
+08/19/2021 10:36:50 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:36:50 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.385
+08/19/2021 10:36:50 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:36:50 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:36:50 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:36:50 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.377)
+08/19/2021 10:36:50 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:36:50 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.401
+08/19/2021 10:36:50 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.389
+08/19/2021 10:36:54 AM - INFO - engine_base.py: Logistic Regression Classifier w/ Imputer + Standard Scaler:
+08/19/2021 10:36:54 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:36:54 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:36:54 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:36:54 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:36:54 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.200)
+08/19/2021 10:36:54 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:36:54 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.557
+08/19/2021 10:36:54 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:36:54 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:36:54 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:36:54 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.236)
+08/19/2021 10:36:54 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:36:54 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.558
+08/19/2021 10:36:54 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:36:54 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:36:54 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:36:54 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.225)
+08/19/2021 10:36:54 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:36:54 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.565
+08/19/2021 10:36:54 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.560
+08/19/2021 10:36:58 AM - INFO - engine_base.py: XGBoost Classifier w/ Imputer:
+08/19/2021 10:36:58 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:36:58 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:36:58 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:36:58 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:36:58 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.326)
+08/19/2021 10:36:58 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:36:58 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.387
+08/19/2021 10:36:58 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:36:58 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:36:58 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:36:58 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.321)
+08/19/2021 10:36:58 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:36:58 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.390
+08/19/2021 10:36:58 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:36:58 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:36:58 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:36:58 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.295)
+08/19/2021 10:36:58 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:36:58 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.409
+08/19/2021 10:36:58 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.395
+08/19/2021 10:37:01 AM - INFO - engine_base.py: Extra Trees Classifier w/ Imputer:
+08/19/2021 10:37:01 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:37:01 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:37:01 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:37:01 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:37:01 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.297)
+08/19/2021 10:37:01 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:37:01 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.543
+08/19/2021 10:37:01 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:37:01 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:37:01 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:37:01 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.287)
+08/19/2021 10:37:01 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:37:01 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.544
+08/19/2021 10:37:01 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:37:01 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:37:01 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:37:01 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.298)
+08/19/2021 10:37:01 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:37:01 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.549
+08/19/2021 10:37:01 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.545
+08/19/2021 10:37:02 AM - INFO - engine_base.py: CatBoost Classifier w/ Imputer:
+08/19/2021 10:37:02 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:37:02 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:37:02 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:37:02 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:37:02 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.442)
+08/19/2021 10:37:02 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:37:02 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.627
+08/19/2021 10:37:02 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:37:02 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:37:02 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:37:02 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.436)
+08/19/2021 10:37:02 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:37:02 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.629
+08/19/2021 10:37:02 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:37:02 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:37:02 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:37:02 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.435)
+08/19/2021 10:37:02 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:37:02 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.629
+08/19/2021 10:37:02 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.628
+08/19/2021 10:37:03 AM - INFO - logger.py: 
+*****************************
+08/19/2021 10:37:03 AM - INFO - logger.py: * Evaluating Batch Number 2 *
+08/19/2021 10:37:03 AM - INFO - logger.py: *****************************
+08/19/2021 10:37:03 AM - INFO - logger.py: 
+08/19/2021 10:37:05 AM - INFO - engine_base.py: LightGBM Classifier w/ Imputer:
+08/19/2021 10:37:05 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:37:05 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:37:05 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:37:05 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:37:05 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.227)
+08/19/2021 10:37:05 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:37:05 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.476
+08/19/2021 10:37:05 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:37:05 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:37:05 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:37:05 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.246)
+08/19/2021 10:37:05 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:37:05 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.482
+08/19/2021 10:37:05 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:37:05 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:37:05 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:37:05 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.349)
+08/19/2021 10:37:05 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:37:05 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.493
+08/19/2021 10:37:05 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.484
+08/19/2021 10:37:07 AM - INFO - engine_base.py: LightGBM Classifier w/ Imputer:
+08/19/2021 10:37:07 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:37:07 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:37:07 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:37:07 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:37:07 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.264)
+08/19/2021 10:37:07 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:37:07 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.515
+08/19/2021 10:37:07 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:37:07 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:37:07 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:37:07 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.200)
+08/19/2021 10:37:07 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:37:07 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.517
+08/19/2021 10:37:07 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:37:07 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:37:07 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:37:07 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.242)
+08/19/2021 10:37:07 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:37:07 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.526
+08/19/2021 10:37:07 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.519
+08/19/2021 10:37:09 AM - INFO - engine_base.py: LightGBM Classifier w/ Imputer:
+08/19/2021 10:37:09 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:37:09 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:37:09 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:37:09 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:37:09 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.259)
+08/19/2021 10:37:09 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:37:09 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.489
+08/19/2021 10:37:09 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:37:09 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:37:09 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:37:09 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.277)
+08/19/2021 10:37:09 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:37:09 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.487
+08/19/2021 10:37:09 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:37:09 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:37:09 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:37:09 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.253)
+08/19/2021 10:37:09 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:37:09 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.497
+08/19/2021 10:37:09 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.491
+08/19/2021 10:37:10 AM - INFO - engine_base.py: LightGBM Classifier w/ Imputer:
+08/19/2021 10:37:10 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:37:11 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:37:11 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:37:11 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:37:11 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.434)
+08/19/2021 10:37:11 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:37:11 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.593
+08/19/2021 10:37:11 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:37:11 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:37:11 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:37:11 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.261)
+08/19/2021 10:37:11 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:37:11 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.620
+08/19/2021 10:37:11 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:37:11 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:37:11 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:37:11 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.213)
+08/19/2021 10:37:11 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:37:11 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.613
+08/19/2021 10:37:11 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.609
+08/19/2021 10:37:13 AM - INFO - engine_base.py: LightGBM Classifier w/ Imputer:
+08/19/2021 10:37:13 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:37:13 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:37:13 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:37:13 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:37:13 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.367)
+08/19/2021 10:37:13 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:37:13 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.401
+08/19/2021 10:37:13 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:37:13 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:37:13 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:37:13 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.367)
+08/19/2021 10:37:13 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:37:13 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.407
+08/19/2021 10:37:13 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:37:13 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:37:13 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:37:13 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.383)
+08/19/2021 10:37:13 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:37:13 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.424
+08/19/2021 10:37:13 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.411
+08/19/2021 10:37:13 AM - INFO - logger.py: 
+*****************************
+08/19/2021 10:37:13 AM - INFO - logger.py: * Evaluating Batch Number 3 *
+08/19/2021 10:37:13 AM - INFO - logger.py: *****************************
+08/19/2021 10:37:13 AM - INFO - logger.py: 
+08/19/2021 10:37:21 AM - INFO - engine_base.py: XGBoost Classifier w/ Imputer:
+08/19/2021 10:37:21 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:37:21 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:37:21 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:37:21 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:37:21 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.149)
+08/19/2021 10:37:21 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:37:21 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.634
+08/19/2021 10:37:21 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:37:21 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:37:21 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:37:21 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.349)
+08/19/2021 10:37:21 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:37:21 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.652
+08/19/2021 10:37:21 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:37:21 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:37:21 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:37:21 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.220)
+08/19/2021 10:37:21 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:37:21 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.652
+08/19/2021 10:37:21 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.646
+08/19/2021 10:37:32 AM - INFO - engine_base.py: XGBoost Classifier w/ Imputer:
+08/19/2021 10:37:32 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:37:32 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:37:32 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:37:32 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:37:32 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.100)
+08/19/2021 10:37:32 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:37:32 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.593
+08/19/2021 10:37:32 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:37:32 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:37:32 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:37:32 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.373)
+08/19/2021 10:37:32 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:37:32 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.601
+08/19/2021 10:37:32 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:37:32 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:37:32 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:37:32 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.267)
+08/19/2021 10:37:32 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:37:32 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.623
+08/19/2021 10:37:32 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.606
+08/19/2021 10:37:55 AM - INFO - engine_base.py: XGBoost Classifier w/ Imputer:
+08/19/2021 10:37:55 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:37:55 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:37:55 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:37:55 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:37:55 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.326)
+08/19/2021 10:37:55 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:37:55 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.558
+08/19/2021 10:37:55 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:37:55 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:37:55 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:37:55 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.147)
+08/19/2021 10:37:55 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:37:55 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.556
+08/19/2021 10:37:55 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:37:55 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:37:55 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:37:55 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.156)
+08/19/2021 10:37:55 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:37:55 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.585
+08/19/2021 10:37:55 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.567
+08/19/2021 10:38:08 AM - INFO - engine_base.py: XGBoost Classifier w/ Imputer:
+08/19/2021 10:38:08 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:38:08 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:38:08 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:38:08 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:38:08 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.322)
+08/19/2021 10:38:08 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:38:08 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.450
+08/19/2021 10:38:08 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:38:08 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:38:08 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:38:08 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.266)
+08/19/2021 10:38:08 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:38:08 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.457
+08/19/2021 10:38:08 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:38:08 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:38:08 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:38:08 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.270)
+08/19/2021 10:38:08 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:38:08 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.471
+08/19/2021 10:38:08 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.459
+08/19/2021 10:38:12 AM - INFO - engine_base.py: XGBoost Classifier w/ Imputer:
+08/19/2021 10:38:12 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:38:12 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:38:12 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:38:12 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:38:12 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.257)
+08/19/2021 10:38:12 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:38:12 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.502
+08/19/2021 10:38:12 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:38:12 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:38:12 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:38:12 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.279)
+08/19/2021 10:38:12 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:38:12 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.501
+08/19/2021 10:38:12 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:38:12 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:38:12 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:38:12 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.276)
+08/19/2021 10:38:12 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:38:12 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.513
+08/19/2021 10:38:12 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.506
+08/19/2021 10:38:12 AM - INFO - logger.py: 
+*****************************
+08/19/2021 10:38:12 AM - INFO - logger.py: * Evaluating Batch Number 4 *
+08/19/2021 10:38:12 AM - INFO - logger.py: *****************************
+08/19/2021 10:38:12 AM - INFO - logger.py: 
+08/19/2021 10:38:41 AM - INFO - engine_base.py: Random Forest Classifier w/ Imputer:
+08/19/2021 10:38:41 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:38:41 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:38:41 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:38:41 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:38:41 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.266)
+08/19/2021 10:38:41 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:38:41 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.500
+08/19/2021 10:38:41 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:38:41 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:38:41 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:38:41 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.267)
+08/19/2021 10:38:41 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:38:41 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.502
+08/19/2021 10:38:41 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:38:41 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:38:41 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:38:41 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.309)
+08/19/2021 10:38:41 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:38:41 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.511
+08/19/2021 10:38:41 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.504
+08/19/2021 10:39:00 AM - INFO - engine_base.py: Random Forest Classifier w/ Imputer:
+08/19/2021 10:39:00 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:39:00 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:39:00 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:39:00 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:39:00 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.277)
+08/19/2021 10:39:00 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:39:00 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.549
+08/19/2021 10:39:00 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:39:00 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:39:00 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:39:00 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.269)
+08/19/2021 10:39:00 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:39:00 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.549
+08/19/2021 10:39:00 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:39:00 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:39:00 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:39:00 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.264)
+08/19/2021 10:39:00 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:39:00 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.553
+08/19/2021 10:39:00 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.550
+08/19/2021 10:39:41 AM - INFO - engine_base.py: Random Forest Classifier w/ Imputer:
+08/19/2021 10:39:41 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:39:41 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:39:41 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:39:41 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:39:41 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.293)
+08/19/2021 10:39:41 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:39:41 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.475
+08/19/2021 10:39:41 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:39:41 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:39:41 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:39:41 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.274)
+08/19/2021 10:39:41 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:39:41 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.478
+08/19/2021 10:39:41 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:39:41 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:39:41 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:39:41 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.317)
+08/19/2021 10:39:41 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:39:41 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.490
+08/19/2021 10:39:41 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.481
+08/19/2021 10:40:10 AM - INFO - engine_base.py: Random Forest Classifier w/ Imputer:
+08/19/2021 10:40:10 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:40:10 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:40:10 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:40:10 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:40:10 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.280)
+08/19/2021 10:40:10 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:40:10 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.549
+08/19/2021 10:40:10 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:40:10 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:40:10 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:40:10 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.263)
+08/19/2021 10:40:10 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:40:10 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.549
+08/19/2021 10:40:10 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:40:10 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:40:10 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:40:10 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.268)
+08/19/2021 10:40:10 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:40:10 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.554
+08/19/2021 10:40:10 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.551
+08/19/2021 10:40:51 AM - INFO - engine_base.py: Random Forest Classifier w/ Imputer:
+08/19/2021 10:40:51 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:40:51 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:40:51 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:40:51 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:40:51 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.297)
+08/19/2021 10:40:51 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:40:51 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.475
+08/19/2021 10:40:51 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:40:51 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:40:51 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:40:51 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.271)
+08/19/2021 10:40:51 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:40:51 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.478
+08/19/2021 10:40:51 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:40:51 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:40:51 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:40:51 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.313)
+08/19/2021 10:40:51 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:40:51 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.489
+08/19/2021 10:40:51 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.481
+08/19/2021 10:40:51 AM - INFO - logger.py: 
+*****************************
+08/19/2021 10:40:51 AM - INFO - logger.py: * Evaluating Batch Number 5 *
+08/19/2021 10:40:51 AM - INFO - logger.py: *****************************
+08/19/2021 10:40:51 AM - INFO - logger.py: 
+08/19/2021 10:41:18 AM - INFO - engine_base.py: Extra Trees Classifier w/ Imputer:
+08/19/2021 10:41:18 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:41:19 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:41:19 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:41:19 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:41:19 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.293)
+08/19/2021 10:41:19 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:41:19 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.553
+08/19/2021 10:41:19 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:41:19 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:41:19 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:41:19 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.288)
+08/19/2021 10:41:19 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:41:19 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.553
+08/19/2021 10:41:19 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:41:19 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:41:19 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:41:19 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.299)
+08/19/2021 10:41:19 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:41:19 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.558
+08/19/2021 10:41:19 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.555
+08/19/2021 10:41:38 AM - INFO - engine_base.py: Extra Trees Classifier w/ Imputer:
+08/19/2021 10:41:38 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:41:38 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:41:38 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:41:38 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:41:38 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.291)
+08/19/2021 10:41:38 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:41:38 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.562
+08/19/2021 10:41:38 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:41:38 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:41:38 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:41:38 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.291)
+08/19/2021 10:41:38 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:41:38 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.562
+08/19/2021 10:41:38 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:41:38 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:41:38 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:41:38 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.289)
+08/19/2021 10:41:38 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:41:38 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.565
+08/19/2021 10:41:38 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.563
+08/19/2021 10:41:39 AM - INFO - automl_search.py: 
+Search finished after 05:02            
+08/19/2021 10:41:40 AM - INFO - automl_search.py: Best pipeline: LightGBM Classifier w/ Imputer
+08/19/2021 10:41:40 AM - INFO - automl_search.py: Best pipeline Log Loss Binary: 0.389436
+08/19/2021 10:41:40 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:41:41 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:41:41 AM - INFO - automl_search.py: Generating pipelines to search over...
+08/19/2021 10:41:41 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:41:41 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:41:41 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:41:41 AM - DEBUG - automl_search.py: allowed_estimators set to ['Decision Tree Classifier', 'LightGBM Classifier', 'Extra Trees Classifier', 'Elastic Net Classifier', 'CatBoost Classifier', 'XGBoost Classifier', 'Random Forest Classifier', 'Logistic Regression Classifier']
+08/19/2021 10:41:42 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:41:42 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:41:42 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:41:42 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:41:42 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:41:42 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:41:42 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:41:42 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:41:42 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:41:42 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:41:42 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:41:42 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:41:42 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:41:42 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:41:42 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:41:42 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:41:42 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:41:42 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:41:42 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:41:42 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:41:42 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:41:42 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:41:42 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:41:42 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:41:42 AM - INFO - automl_search.py: 8 pipelines ready for search.
+08/19/2021 10:41:42 AM - DEBUG - automl_search.py: allowed_pipelines set to ['Decision Tree Classifier w/ Imputer', 'LightGBM Classifier w/ Imputer', 'Extra Trees Classifier w/ Imputer', 'Elastic Net Classifier w/ Imputer + Standard Scaler', 'CatBoost Classifier w/ Imputer', 'XGBoost Classifier w/ Imputer', 'Random Forest Classifier w/ Imputer', 'Logistic Regression Classifier w/ Imputer + Standard Scaler']
+08/19/2021 10:41:42 AM - DEBUG - automl_search.py: allowed_model_families set to [ModelFamily.XGBOOST, ModelFamily.RANDOM_FOREST, ModelFamily.CATBOOST, ModelFamily.EXTRA_TREES, ModelFamily.LIGHTGBM, ModelFamily.DECISION_TREE, ModelFamily.LINEAR_MODEL]
+08/19/2021 10:41:42 AM - INFO - logger.py: 
+*****************************
+08/19/2021 10:41:42 AM - INFO - logger.py: * Beginning pipeline search *
+08/19/2021 10:41:42 AM - INFO - logger.py: *****************************
+08/19/2021 10:41:42 AM - INFO - logger.py: 
+08/19/2021 10:41:42 AM - INFO - automl_search.py: Optimizing for Log Loss Binary. 
+08/19/2021 10:41:42 AM - INFO - automl_search.py: Lower score is better.
+
+08/19/2021 10:41:42 AM - INFO - automl_search.py: Using SequentialEngine to train and score pipelines.
+08/19/2021 10:41:42 AM - INFO - automl_search.py: Will stop searching for new pipelines after 300 seconds.
+
+08/19/2021 10:41:42 AM - INFO - automl_search.py: Allowed model families: xgboost, random_forest, catboost, extra_trees, lightgbm, decision_tree, linear_model
+
+08/19/2021 10:41:42 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:41:42 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:41:42 AM - INFO - automl_search.py: Evaluating Baseline Pipeline: Mode Baseline Binary Classification Pipeline
+08/19/2021 10:41:46 AM - INFO - engine_base.py: Mode Baseline Binary Classification Pipeline:
+08/19/2021 10:41:46 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:41:46 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:41:46 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:41:46 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:41:46 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.000)
+08/19/2021 10:41:46 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:41:46 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 9.306
+08/19/2021 10:41:46 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:41:46 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:41:46 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:41:46 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.000)
+08/19/2021 10:41:46 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:41:46 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 9.306
+08/19/2021 10:41:46 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:41:46 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:41:46 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:41:46 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.000)
+08/19/2021 10:41:46 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:41:46 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 9.315
+08/19/2021 10:41:46 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 9.309
+08/19/2021 10:41:46 AM - INFO - logger.py: 
+*****************************
+08/19/2021 10:41:46 AM - INFO - logger.py: * Evaluating Batch Number 1 *
+08/19/2021 10:41:46 AM - INFO - logger.py: *****************************
+08/19/2021 10:41:46 AM - INFO - logger.py: 
+08/19/2021 10:41:53 AM - INFO - engine_base.py: Elastic Net Classifier w/ Imputer + Standard Scaler:
+08/19/2021 10:41:53 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:41:53 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:41:53 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:41:53 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:41:53 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.203)
+08/19/2021 10:41:53 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:41:53 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.557
+08/19/2021 10:41:53 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:41:53 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:41:53 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:41:53 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.239)
+08/19/2021 10:41:53 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:41:53 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.555
+08/19/2021 10:41:53 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:41:53 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:41:53 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:41:53 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.241)
+08/19/2021 10:41:53 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:41:53 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.554
+08/19/2021 10:41:53 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.556
+08/19/2021 10:41:57 AM - INFO - engine_base.py: Decision Tree Classifier w/ Imputer:
+08/19/2021 10:41:57 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:41:57 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:41:57 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:41:57 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:41:57 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (-0.000)
+08/19/2021 10:41:57 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:41:57 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.551
+08/19/2021 10:41:57 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:41:57 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:41:57 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:41:57 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.280)
+08/19/2021 10:41:57 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:41:57 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.583
+08/19/2021 10:41:57 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:41:57 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:41:57 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:41:57 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.288)
+08/19/2021 10:41:57 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:41:57 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.547
+08/19/2021 10:41:57 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.560
+08/19/2021 10:42:07 AM - INFO - engine_base.py: Random Forest Classifier w/ Imputer:
+08/19/2021 10:42:07 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:42:07 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:42:07 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:42:07 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:42:07 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.324)
+08/19/2021 10:42:07 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:42:07 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.462
+08/19/2021 10:42:07 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:42:07 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:42:07 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:42:07 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.302)
+08/19/2021 10:42:07 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:42:07 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.464
+08/19/2021 10:42:07 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:42:07 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:42:07 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:42:07 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.349)
+08/19/2021 10:42:07 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:42:07 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.454
+08/19/2021 10:42:07 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.460
+08/19/2021 10:42:11 AM - INFO - engine_base.py: LightGBM Classifier w/ Imputer:
+08/19/2021 10:42:11 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:42:11 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:42:11 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:42:11 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:42:11 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.295)
+08/19/2021 10:42:11 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:42:11 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.404
+08/19/2021 10:42:11 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:42:11 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:42:11 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:42:11 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.346)
+08/19/2021 10:42:11 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:42:11 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.399
+08/19/2021 10:42:11 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:42:11 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:42:11 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:42:11 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.355)
+08/19/2021 10:42:11 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:42:11 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.383
+08/19/2021 10:42:11 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.395
+08/19/2021 10:42:20 AM - INFO - engine_base.py: Logistic Regression Classifier w/ Imputer + Standard Scaler:
+08/19/2021 10:42:20 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:42:20 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:42:20 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:42:20 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:42:20 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.203)
+08/19/2021 10:42:20 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:42:20 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.557
+08/19/2021 10:42:20 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:42:20 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:42:20 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:42:20 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.233)
+08/19/2021 10:42:20 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:42:20 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.555
+08/19/2021 10:42:20 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:42:20 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:42:20 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:42:20 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.241)
+08/19/2021 10:42:20 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:42:20 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.554
+08/19/2021 10:42:20 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.555
+08/19/2021 10:42:30 AM - INFO - engine_base.py: XGBoost Classifier w/ Imputer:
+08/19/2021 10:42:30 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:42:31 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:42:31 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:42:31 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:42:31 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.302)
+08/19/2021 10:42:31 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:42:31 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.408
+08/19/2021 10:42:31 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:42:31 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:42:31 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:42:31 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.312)
+08/19/2021 10:42:31 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:42:31 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.398
+08/19/2021 10:42:31 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:42:31 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:42:31 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:42:31 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.354)
+08/19/2021 10:42:31 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:42:31 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.389
+08/19/2021 10:42:31 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.398
+08/19/2021 10:42:37 AM - INFO - engine_base.py: Extra Trees Classifier w/ Imputer:
+08/19/2021 10:42:37 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:42:37 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:42:37 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:42:37 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:42:37 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.297)
+08/19/2021 10:42:37 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:42:37 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.540
+08/19/2021 10:42:37 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:42:37 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:42:37 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:42:37 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.299)
+08/19/2021 10:42:37 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:42:37 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.540
+08/19/2021 10:42:37 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:42:37 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:42:37 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:42:37 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.293)
+08/19/2021 10:42:37 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:42:37 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.539
+08/19/2021 10:42:37 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.540
+08/19/2021 10:42:39 AM - INFO - engine_base.py: CatBoost Classifier w/ Imputer:
+08/19/2021 10:42:39 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:42:39 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:42:39 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:42:39 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:42:39 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.438)
+08/19/2021 10:42:39 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:42:39 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.626
+08/19/2021 10:42:39 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:42:39 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:42:39 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:42:39 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.432)
+08/19/2021 10:42:39 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:42:39 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.627
+08/19/2021 10:42:39 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:42:39 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:42:39 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:42:39 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.444)
+08/19/2021 10:42:39 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:42:39 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.628
+08/19/2021 10:42:39 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.627
+08/19/2021 10:42:39 AM - INFO - logger.py: 
+*****************************
+08/19/2021 10:42:39 AM - INFO - logger.py: * Evaluating Batch Number 2 *
+08/19/2021 10:42:39 AM - INFO - logger.py: *****************************
+08/19/2021 10:42:39 AM - INFO - logger.py: 
+08/19/2021 10:42:42 AM - INFO - engine_base.py: LightGBM Classifier w/ Imputer:
+08/19/2021 10:42:42 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:42:42 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:42:42 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:42:42 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:42:42 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.310)
+08/19/2021 10:42:42 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:42:42 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.489
+08/19/2021 10:42:42 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:42:42 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:42:42 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:42:42 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.284)
+08/19/2021 10:42:42 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:42:42 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.489
+08/19/2021 10:42:42 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:42:42 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:42:42 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:42:42 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.310)
+08/19/2021 10:42:42 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:42:42 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.478
+08/19/2021 10:42:42 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.485
+08/19/2021 10:42:45 AM - INFO - engine_base.py: LightGBM Classifier w/ Imputer:
+08/19/2021 10:42:45 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:42:45 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:42:45 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:42:45 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:42:45 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.218)
+08/19/2021 10:42:45 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:42:45 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.522
+08/19/2021 10:42:45 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:42:45 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:42:45 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:42:45 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.268)
+08/19/2021 10:42:45 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:42:45 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.520
+08/19/2021 10:42:45 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:42:45 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:42:45 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:42:45 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.265)
+08/19/2021 10:42:45 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:42:45 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.515
+08/19/2021 10:42:45 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.519
+08/19/2021 10:42:48 AM - INFO - engine_base.py: LightGBM Classifier w/ Imputer:
+08/19/2021 10:42:48 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:42:48 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:42:48 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:42:48 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:42:48 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.276)
+08/19/2021 10:42:48 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:42:48 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.491
+08/19/2021 10:42:48 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:42:48 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:42:48 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:42:48 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.285)
+08/19/2021 10:42:48 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:42:48 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.493
+08/19/2021 10:42:48 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:42:48 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:42:48 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:42:48 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.307)
+08/19/2021 10:42:48 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:42:48 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.486
+08/19/2021 10:42:48 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.490
+08/19/2021 10:42:51 AM - INFO - engine_base.py: LightGBM Classifier w/ Imputer:
+08/19/2021 10:42:51 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:42:51 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:42:51 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:42:51 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:42:51 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.291)
+08/19/2021 10:42:51 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:42:51 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.651
+08/19/2021 10:42:51 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:42:51 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:42:51 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:42:51 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.250)
+08/19/2021 10:42:51 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:42:51 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.616
+08/19/2021 10:42:51 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:42:51 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:42:51 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:42:51 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.233)
+08/19/2021 10:42:51 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:42:51 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.601
+08/19/2021 10:42:51 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.622
+08/19/2021 10:42:55 AM - INFO - engine_base.py: LightGBM Classifier w/ Imputer:
+08/19/2021 10:42:55 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:42:55 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:42:55 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:42:55 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:42:55 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.323)
+08/19/2021 10:42:55 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:42:55 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.417
+08/19/2021 10:42:55 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:42:55 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:42:55 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:42:55 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.271)
+08/19/2021 10:42:55 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:42:55 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.412
+08/19/2021 10:42:55 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:42:55 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:42:55 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:42:55 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.358)
+08/19/2021 10:42:55 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:42:55 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.400
+08/19/2021 10:42:55 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.409
+08/19/2021 10:42:55 AM - INFO - logger.py: 
+*****************************
+08/19/2021 10:42:55 AM - INFO - logger.py: * Evaluating Batch Number 3 *
+08/19/2021 10:42:55 AM - INFO - logger.py: *****************************
+08/19/2021 10:42:55 AM - INFO - logger.py: 
+08/19/2021 10:43:06 AM - INFO - engine_base.py: XGBoost Classifier w/ Imputer:
+08/19/2021 10:43:06 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:43:06 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:43:06 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:43:06 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:43:06 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.159)
+08/19/2021 10:43:06 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:43:06 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.653
+08/19/2021 10:43:06 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:43:06 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:43:06 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:43:06 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.112)
+08/19/2021 10:43:06 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:43:06 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.667
+08/19/2021 10:43:06 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:43:06 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:43:06 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:43:06 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.367)
+08/19/2021 10:43:06 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:43:06 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.630
+08/19/2021 10:43:06 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.650
+08/19/2021 10:43:14 AM - INFO - engine_base.py: XGBoost Classifier w/ Imputer:
+08/19/2021 10:43:14 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:43:14 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:43:14 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:43:14 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:43:14 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.127)
+08/19/2021 10:43:14 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:43:14 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.633
+08/19/2021 10:43:14 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:43:14 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:43:14 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:43:14 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.079)
+08/19/2021 10:43:14 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:43:14 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.611
+08/19/2021 10:43:14 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:43:14 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:43:14 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:43:14 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.224)
+08/19/2021 10:43:14 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:43:14 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.591
+08/19/2021 10:43:14 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.612
+08/19/2021 10:43:31 AM - INFO - engine_base.py: XGBoost Classifier w/ Imputer:
+08/19/2021 10:43:31 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:43:31 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:43:31 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:43:31 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:43:31 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.207)
+08/19/2021 10:43:31 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:43:31 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.591
+08/19/2021 10:43:31 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:43:31 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:43:31 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:43:31 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.316)
+08/19/2021 10:43:31 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:43:31 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.577
+08/19/2021 10:43:31 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:43:31 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:43:31 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:43:31 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.222)
+08/19/2021 10:43:31 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:43:31 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.558
+08/19/2021 10:43:31 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.575
+08/19/2021 10:43:48 AM - INFO - engine_base.py: XGBoost Classifier w/ Imputer:
+08/19/2021 10:43:48 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:43:48 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:43:48 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:43:48 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:43:48 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.287)
+08/19/2021 10:43:48 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:43:48 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.461
+08/19/2021 10:43:48 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:43:48 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:43:48 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:43:48 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.377)
+08/19/2021 10:43:48 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:43:48 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.461
+08/19/2021 10:43:48 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:43:48 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:43:48 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:43:48 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.316)
+08/19/2021 10:43:48 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:43:48 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.453
+08/19/2021 10:43:48 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.458
+08/19/2021 10:43:52 AM - INFO - engine_base.py: XGBoost Classifier w/ Imputer:
+08/19/2021 10:43:52 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:43:52 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:43:52 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:43:52 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:43:52 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.271)
+08/19/2021 10:43:52 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:43:52 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.504
+08/19/2021 10:43:52 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:43:52 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:43:52 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:43:52 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.237)
+08/19/2021 10:43:52 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:43:52 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.505
+08/19/2021 10:43:52 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:43:52 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:43:52 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:43:52 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.278)
+08/19/2021 10:43:52 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:43:52 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.495
+08/19/2021 10:43:52 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.501
+08/19/2021 10:43:52 AM - INFO - logger.py: 
+*****************************
+08/19/2021 10:43:52 AM - INFO - logger.py: * Evaluating Batch Number 4 *
+08/19/2021 10:43:52 AM - INFO - logger.py: *****************************
+08/19/2021 10:43:52 AM - INFO - logger.py: 
+08/19/2021 10:44:21 AM - INFO - engine_base.py: Random Forest Classifier w/ Imputer:
+08/19/2021 10:44:21 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:44:21 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:44:21 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:44:21 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:44:21 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.292)
+08/19/2021 10:44:21 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:44:21 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.505
+08/19/2021 10:44:21 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:44:21 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:44:21 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:44:21 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.266)
+08/19/2021 10:44:21 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:44:21 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.505
+08/19/2021 10:44:21 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:44:21 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:44:21 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:44:21 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.293)
+08/19/2021 10:44:21 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:44:21 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.498
+08/19/2021 10:44:21 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.503
+08/19/2021 10:44:37 AM - INFO - engine_base.py: Random Forest Classifier w/ Imputer:
+08/19/2021 10:44:37 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:44:37 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:44:37 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:44:37 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:44:37 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.278)
+08/19/2021 10:44:37 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:44:37 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.548
+08/19/2021 10:44:37 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:44:37 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:44:37 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:44:37 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.269)
+08/19/2021 10:44:37 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:44:37 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.548
+08/19/2021 10:44:37 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:44:37 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:44:37 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:44:37 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.264)
+08/19/2021 10:44:37 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:44:37 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.545
+08/19/2021 10:44:37 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.547
+08/19/2021 10:45:13 AM - INFO - engine_base.py: Random Forest Classifier w/ Imputer:
+08/19/2021 10:45:13 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:45:13 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:45:13 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:45:13 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:45:13 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.308)
+08/19/2021 10:45:13 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:45:13 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.483
+08/19/2021 10:45:13 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:45:13 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:45:13 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:45:13 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.265)
+08/19/2021 10:45:13 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:45:13 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.483
+08/19/2021 10:45:13 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:45:13 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:45:13 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:45:13 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.294)
+08/19/2021 10:45:13 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:45:13 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.476
+08/19/2021 10:45:13 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.481
+08/19/2021 10:45:37 AM - INFO - engine_base.py: Random Forest Classifier w/ Imputer:
+08/19/2021 10:45:37 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:45:37 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:45:37 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:45:37 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:45:37 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.277)
+08/19/2021 10:45:37 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:45:37 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.548
+08/19/2021 10:45:37 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:45:37 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:45:37 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:45:37 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.272)
+08/19/2021 10:45:37 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:45:37 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.548
+08/19/2021 10:45:37 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:45:37 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:45:37 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:45:37 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.269)
+08/19/2021 10:45:37 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:45:37 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.545
+08/19/2021 10:45:37 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.547
+08/19/2021 10:46:14 AM - INFO - engine_base.py: Random Forest Classifier w/ Imputer:
+08/19/2021 10:46:14 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:46:14 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:46:14 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:46:14 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:46:14 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.292)
+08/19/2021 10:46:14 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:46:14 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.483
+08/19/2021 10:46:14 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:46:14 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:46:14 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:46:14 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.284)
+08/19/2021 10:46:14 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:46:14 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.483
+08/19/2021 10:46:14 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:46:14 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:46:14 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:46:14 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.292)
+08/19/2021 10:46:14 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:46:14 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.476
+08/19/2021 10:46:14 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.480
+08/19/2021 10:46:14 AM - INFO - logger.py: 
+*****************************
+08/19/2021 10:46:14 AM - INFO - logger.py: * Evaluating Batch Number 5 *
+08/19/2021 10:46:14 AM - INFO - logger.py: *****************************
+08/19/2021 10:46:14 AM - INFO - logger.py: 
+08/19/2021 10:46:38 AM - INFO - engine_base.py: Extra Trees Classifier w/ Imputer:
+08/19/2021 10:46:38 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:46:38 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:46:38 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:46:38 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:46:38 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.292)
+08/19/2021 10:46:38 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:46:38 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.550
+08/19/2021 10:46:38 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:46:38 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:46:38 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:46:38 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.290)
+08/19/2021 10:46:38 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:46:38 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.550
+08/19/2021 10:46:38 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:46:38 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:46:38 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:46:38 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.289)
+08/19/2021 10:46:38 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:46:38 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.550
+08/19/2021 10:46:38 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.550
+08/19/2021 10:46:56 AM - INFO - engine_base.py: Extra Trees Classifier w/ Imputer:
+08/19/2021 10:46:56 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:46:56 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:46:56 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:46:56 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:46:56 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.281)
+08/19/2021 10:46:56 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:46:56 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.559
+08/19/2021 10:46:56 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:46:56 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:46:56 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:46:56 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.281)
+08/19/2021 10:46:56 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:46:56 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.559
+08/19/2021 10:46:56 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:46:56 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:46:56 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:46:56 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.287)
+08/19/2021 10:46:56 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:46:56 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.558
+08/19/2021 10:46:56 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.559
+08/19/2021 10:46:56 AM - INFO - automl_search.py: 
+Search finished after 05:14            
+08/19/2021 10:46:57 AM - INFO - automl_search.py: Best pipeline: LightGBM Classifier w/ Imputer
+08/19/2021 10:46:57 AM - INFO - automl_search.py: Best pipeline Log Loss Binary: 0.395200
+08/19/2021 10:46:58 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:46:58 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:46:59 AM - INFO - automl_search.py: Generating pipelines to search over...
+08/19/2021 10:46:59 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:46:59 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:46:59 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:46:59 AM - DEBUG - automl_search.py: allowed_estimators set to ['Decision Tree Classifier', 'LightGBM Classifier', 'Extra Trees Classifier', 'Elastic Net Classifier', 'CatBoost Classifier', 'XGBoost Classifier', 'Random Forest Classifier', 'Logistic Regression Classifier']
+08/19/2021 10:46:59 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:46:59 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:46:59 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:46:59 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:46:59 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:46:59 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:46:59 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:46:59 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:46:59 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:46:59 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:46:59 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:46:59 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:46:59 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:46:59 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:46:59 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:46:59 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:46:59 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:46:59 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:46:59 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:46:59 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:46:59 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:46:59 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:46:59 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:46:59 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:46:59 AM - INFO - automl_search.py: 8 pipelines ready for search.
+08/19/2021 10:46:59 AM - DEBUG - automl_search.py: allowed_pipelines set to ['Decision Tree Classifier w/ Imputer', 'LightGBM Classifier w/ Imputer', 'Extra Trees Classifier w/ Imputer', 'Elastic Net Classifier w/ Imputer + Standard Scaler', 'CatBoost Classifier w/ Imputer', 'XGBoost Classifier w/ Imputer', 'Random Forest Classifier w/ Imputer', 'Logistic Regression Classifier w/ Imputer + Standard Scaler']
+08/19/2021 10:46:59 AM - DEBUG - automl_search.py: allowed_model_families set to [ModelFamily.XGBOOST, ModelFamily.RANDOM_FOREST, ModelFamily.CATBOOST, ModelFamily.EXTRA_TREES, ModelFamily.LIGHTGBM, ModelFamily.DECISION_TREE, ModelFamily.LINEAR_MODEL]
+08/19/2021 10:46:59 AM - INFO - logger.py: 
+*****************************
+08/19/2021 10:46:59 AM - INFO - logger.py: * Beginning pipeline search *
+08/19/2021 10:46:59 AM - INFO - logger.py: *****************************
+08/19/2021 10:46:59 AM - INFO - logger.py: 
+08/19/2021 10:46:59 AM - INFO - automl_search.py: Optimizing for Log Loss Binary. 
+08/19/2021 10:46:59 AM - INFO - automl_search.py: Lower score is better.
+
+08/19/2021 10:46:59 AM - INFO - automl_search.py: Using SequentialEngine to train and score pipelines.
+08/19/2021 10:46:59 AM - INFO - automl_search.py: Will stop searching for new pipelines after 300 seconds.
+
+08/19/2021 10:46:59 AM - INFO - automl_search.py: Allowed model families: xgboost, random_forest, catboost, extra_trees, lightgbm, decision_tree, linear_model
+
+08/19/2021 10:46:59 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:46:59 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:46:59 AM - INFO - automl_search.py: Evaluating Baseline Pipeline: Mode Baseline Binary Classification Pipeline
+08/19/2021 10:47:04 AM - INFO - engine_base.py: Mode Baseline Binary Classification Pipeline:
+08/19/2021 10:47:04 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:47:04 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:47:04 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:47:04 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:47:04 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.000)
+08/19/2021 10:47:04 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:47:04 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 9.375
+08/19/2021 10:47:04 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:47:04 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:47:04 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:47:04 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.000)
+08/19/2021 10:47:04 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:47:04 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 9.384
+08/19/2021 10:47:04 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:47:04 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:47:04 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:47:04 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.000)
+08/19/2021 10:47:04 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:47:04 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 9.384
+08/19/2021 10:47:04 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 9.381
+08/19/2021 10:47:04 AM - INFO - logger.py: 
+*****************************
+08/19/2021 10:47:04 AM - INFO - logger.py: * Evaluating Batch Number 1 *
+08/19/2021 10:47:04 AM - INFO - logger.py: *****************************
+08/19/2021 10:47:04 AM - INFO - logger.py: 
+08/19/2021 10:47:11 AM - INFO - engine_base.py: Elastic Net Classifier w/ Imputer + Standard Scaler:
+08/19/2021 10:47:11 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:47:11 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:47:11 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:47:11 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:47:11 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.244)
+08/19/2021 10:47:11 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:47:11 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.560
+08/19/2021 10:47:11 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:47:11 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:47:11 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:47:11 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.218)
+08/19/2021 10:47:11 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:47:11 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.559
+08/19/2021 10:47:11 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:47:11 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:47:11 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:47:11 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.236)
+08/19/2021 10:47:11 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:47:11 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.556
+08/19/2021 10:47:11 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.558
+08/19/2021 10:47:19 AM - INFO - engine_base.py: Decision Tree Classifier w/ Imputer:
+08/19/2021 10:47:19 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:47:19 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:47:19 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:47:19 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:47:19 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (-0.000)
+08/19/2021 10:47:19 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:47:19 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.554
+08/19/2021 10:47:19 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:47:19 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:47:19 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:47:19 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.212)
+08/19/2021 10:47:19 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:47:19 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.642
+08/19/2021 10:47:19 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:47:19 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:47:19 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:47:19 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (-0.000)
+08/19/2021 10:47:19 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:47:19 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.560
+08/19/2021 10:47:19 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.585
+08/19/2021 10:47:30 AM - INFO - engine_base.py: Random Forest Classifier w/ Imputer:
+08/19/2021 10:47:30 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:47:30 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:47:30 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:47:30 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:47:30 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.289)
+08/19/2021 10:47:30 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:47:30 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.457
+08/19/2021 10:47:30 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:47:30 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:47:30 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:47:30 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.318)
+08/19/2021 10:47:30 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:47:30 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.463
+08/19/2021 10:47:30 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:47:30 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:47:30 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:47:30 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.339)
+08/19/2021 10:47:30 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:47:30 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.462
+08/19/2021 10:47:30 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.460
+08/19/2021 10:47:41 AM - INFO - engine_base.py: LightGBM Classifier w/ Imputer:
+08/19/2021 10:47:41 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:47:41 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:47:41 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:47:41 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:47:41 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.340)
+08/19/2021 10:47:41 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:47:41 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.378
+08/19/2021 10:47:41 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:47:41 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:47:41 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:47:41 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.356)
+08/19/2021 10:47:41 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:47:41 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.392
+08/19/2021 10:47:41 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:47:41 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:47:41 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:47:41 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.362)
+08/19/2021 10:47:41 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:47:41 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.392
+08/19/2021 10:47:41 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.387
+08/19/2021 10:47:55 AM - INFO - engine_base.py: Logistic Regression Classifier w/ Imputer + Standard Scaler:
+08/19/2021 10:47:55 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:47:55 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:47:55 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:47:55 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:47:55 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.246)
+08/19/2021 10:47:55 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:47:55 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.560
+08/19/2021 10:47:55 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:47:55 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:47:55 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:47:55 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.216)
+08/19/2021 10:47:55 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:47:55 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.559
+08/19/2021 10:47:55 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:47:55 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:47:55 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:47:55 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.234)
+08/19/2021 10:47:55 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:47:55 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.556
+08/19/2021 10:47:55 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.558
+08/19/2021 10:49:10 AM - INFO - engine_base.py: XGBoost Classifier w/ Imputer:
+08/19/2021 10:49:10 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:49:10 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:49:10 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:49:10 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:49:10 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.261)
+08/19/2021 10:49:11 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:49:11 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.382
+08/19/2021 10:49:11 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:49:11 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:49:11 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:49:11 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.318)
+08/19/2021 10:49:11 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:49:11 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.401
+08/19/2021 10:49:11 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:49:11 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:49:11 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:49:11 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.409)
+08/19/2021 10:49:11 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:49:11 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.398
+08/19/2021 10:49:11 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.394
+08/19/2021 10:49:22 AM - INFO - engine_base.py: Extra Trees Classifier w/ Imputer:
+08/19/2021 10:49:22 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:49:22 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:49:22 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:49:22 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:49:22 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.293)
+08/19/2021 10:49:22 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:49:22 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.540
+08/19/2021 10:49:22 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:49:22 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:49:22 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:49:22 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.287)
+08/19/2021 10:49:22 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:49:22 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.545
+08/19/2021 10:49:22 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:49:22 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:49:22 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:49:22 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.294)
+08/19/2021 10:49:22 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:49:22 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.542
+08/19/2021 10:49:22 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.542
+08/19/2021 10:49:26 AM - INFO - engine_base.py: CatBoost Classifier w/ Imputer:
+08/19/2021 10:49:26 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:49:26 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:49:26 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:49:26 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:49:26 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.434)
+08/19/2021 10:49:26 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:49:26 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.630
+08/19/2021 10:49:26 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:49:26 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:49:26 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:49:26 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.444)
+08/19/2021 10:49:26 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:49:26 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.631
+08/19/2021 10:49:26 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:49:26 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:49:26 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:49:26 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.434)
+08/19/2021 10:49:26 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:49:26 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.626
+08/19/2021 10:49:26 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.629
+08/19/2021 10:49:27 AM - INFO - logger.py: 
+*****************************
+08/19/2021 10:49:27 AM - INFO - logger.py: * Evaluating Batch Number 2 *
+08/19/2021 10:49:27 AM - INFO - logger.py: *****************************
+08/19/2021 10:49:27 AM - INFO - logger.py: 
+08/19/2021 10:49:34 AM - INFO - engine_base.py: LightGBM Classifier w/ Imputer:
+08/19/2021 10:49:34 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:49:34 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:49:34 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:49:34 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:49:34 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.307)
+08/19/2021 10:49:34 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:49:34 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.485
+08/19/2021 10:49:34 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:49:34 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:49:34 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:49:34 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.325)
+08/19/2021 10:49:34 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:49:34 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.492
+08/19/2021 10:49:34 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:49:34 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:49:34 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:49:34 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.318)
+08/19/2021 10:49:34 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:49:34 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.487
+08/19/2021 10:49:34 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.488
+08/19/2021 10:49:42 AM - INFO - engine_base.py: LightGBM Classifier w/ Imputer:
+08/19/2021 10:49:42 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:49:42 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:49:42 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:49:42 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:49:42 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.293)
+08/19/2021 10:49:42 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:49:42 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.522
+08/19/2021 10:49:42 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:49:42 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:49:42 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:49:42 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.249)
+08/19/2021 10:49:42 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:49:42 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.520
+08/19/2021 10:49:42 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:49:42 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:49:42 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:49:42 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.252)
+08/19/2021 10:49:42 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:49:42 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.523
+08/19/2021 10:49:42 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.522
+08/19/2021 10:49:51 AM - INFO - engine_base.py: LightGBM Classifier w/ Imputer:
+08/19/2021 10:49:51 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:49:51 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:49:51 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:49:51 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:49:51 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.288)
+08/19/2021 10:49:51 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:49:51 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.491
+08/19/2021 10:49:51 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:49:51 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:49:51 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:49:51 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.290)
+08/19/2021 10:49:51 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:49:51 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.495
+08/19/2021 10:49:51 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:49:51 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:49:51 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:49:51 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.298)
+08/19/2021 10:49:51 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:49:51 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.493
+08/19/2021 10:49:51 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.493
+08/19/2021 10:50:04 AM - INFO - engine_base.py: LightGBM Classifier w/ Imputer:
+08/19/2021 10:50:04 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:50:04 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:50:04 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:50:04 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:50:04 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.350)
+08/19/2021 10:50:04 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:50:04 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.579
+08/19/2021 10:50:04 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:50:04 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:50:04 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:50:04 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.495)
+08/19/2021 10:50:04 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:50:04 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.612
+08/19/2021 10:50:04 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:50:04 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:50:04 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:50:04 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.218)
+08/19/2021 10:50:04 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:50:04 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.601
+08/19/2021 10:50:04 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.597
+08/19/2021 10:50:15 AM - INFO - engine_base.py: LightGBM Classifier w/ Imputer:
+08/19/2021 10:50:15 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:50:15 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:50:15 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:50:15 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:50:15 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.223)
+08/19/2021 10:50:15 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:50:15 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.390
+08/19/2021 10:50:15 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:50:15 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:50:15 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:50:15 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.339)
+08/19/2021 10:50:15 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:50:15 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.413
+08/19/2021 10:50:15 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:50:15 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:50:15 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:50:15 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.323)
+08/19/2021 10:50:15 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:50:15 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.420
+08/19/2021 10:50:15 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.408
+08/19/2021 10:50:15 AM - INFO - logger.py: 
+*****************************
+08/19/2021 10:50:15 AM - INFO - logger.py: * Evaluating Batch Number 3 *
+08/19/2021 10:50:15 AM - INFO - logger.py: *****************************
+08/19/2021 10:50:15 AM - INFO - logger.py: 
+08/19/2021 10:52:23 AM - INFO - engine_base.py: XGBoost Classifier w/ Imputer:
+08/19/2021 10:52:23 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 10:52:23 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 10:52:23 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 10:52:23 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 10:52:23 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.272)
+08/19/2021 10:52:23 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 10:52:23 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.583
+08/19/2021 10:52:23 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 10:52:23 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 10:52:23 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 10:52:23 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.146)
+08/19/2021 10:52:23 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 10:52:23 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.655
+08/19/2021 10:52:23 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 10:52:23 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 10:52:23 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 10:52:23 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.327)
+08/19/2021 10:52:23 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 10:52:23 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.641
+08/19/2021 10:52:23 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.626
+08/19/2021 10:52:23 AM - INFO - automl_search.py: 
+Search finished after 05:23            
+08/19/2021 10:52:29 AM - INFO - automl_search.py: Best pipeline: LightGBM Classifier w/ Imputer
+08/19/2021 10:52:29 AM - INFO - automl_search.py: Best pipeline Log Loss Binary: 0.387466
+08/19/2021 10:52:33 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 10:52:33 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:32:45 AM - INFO - automl_search.py: Generating pipelines to search over...
+08/19/2021 11:32:48 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:32:48 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:32:48 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:32:48 AM - DEBUG - automl_search.py: allowed_estimators set to ['Decision Tree Classifier', 'LightGBM Classifier', 'Extra Trees Classifier', 'Elastic Net Classifier', 'CatBoost Classifier', 'XGBoost Classifier', 'Random Forest Classifier', 'Logistic Regression Classifier']
+08/19/2021 11:32:48 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:32:48 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:32:48 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:32:48 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:32:48 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:32:48 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:32:48 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:32:48 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:32:48 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:32:48 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:32:48 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:32:48 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:32:48 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:32:48 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:32:48 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:32:48 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:32:48 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:32:48 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:32:48 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:32:48 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:32:48 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:32:49 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:32:49 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:32:49 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:32:49 AM - INFO - automl_search.py: 8 pipelines ready for search.
+08/19/2021 11:32:49 AM - DEBUG - automl_search.py: allowed_pipelines set to ['Decision Tree Classifier w/ Imputer', 'LightGBM Classifier w/ Imputer', 'Extra Trees Classifier w/ Imputer', 'Elastic Net Classifier w/ Imputer + Standard Scaler', 'CatBoost Classifier w/ Imputer', 'XGBoost Classifier w/ Imputer', 'Random Forest Classifier w/ Imputer', 'Logistic Regression Classifier w/ Imputer + Standard Scaler']
+08/19/2021 11:32:49 AM - DEBUG - automl_search.py: allowed_model_families set to [ModelFamily.CATBOOST, ModelFamily.XGBOOST, ModelFamily.RANDOM_FOREST, ModelFamily.DECISION_TREE, ModelFamily.LIGHTGBM, ModelFamily.LINEAR_MODEL, ModelFamily.EXTRA_TREES]
+08/19/2021 11:32:49 AM - INFO - logger.py: 
+*****************************
+08/19/2021 11:32:49 AM - INFO - logger.py: * Beginning pipeline search *
+08/19/2021 11:32:49 AM - INFO - logger.py: *****************************
+08/19/2021 11:32:49 AM - INFO - logger.py: 
+08/19/2021 11:32:49 AM - INFO - automl_search.py: Optimizing for Log Loss Binary. 
+08/19/2021 11:32:49 AM - INFO - automl_search.py: Lower score is better.
+
+08/19/2021 11:32:49 AM - INFO - automl_search.py: Using SequentialEngine to train and score pipelines.
+08/19/2021 11:32:49 AM - INFO - automl_search.py: Will stop searching for new pipelines after 300 seconds.
+
+08/19/2021 11:32:49 AM - INFO - automl_search.py: Allowed model families: catboost, xgboost, random_forest, decision_tree, lightgbm, linear_model, extra_trees
+
+08/19/2021 11:32:54 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:32:54 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:32:54 AM - INFO - automl_search.py: Evaluating Baseline Pipeline: Mode Baseline Binary Classification Pipeline
+08/19/2021 11:33:03 AM - INFO - engine_base.py: Mode Baseline Binary Classification Pipeline:
+08/19/2021 11:33:03 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 11:33:03 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 11:33:03 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 11:33:03 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 11:33:03 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.000)
+08/19/2021 11:33:03 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 11:33:03 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 9.393
+08/19/2021 11:33:03 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 11:33:03 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 11:33:03 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 11:33:03 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.000)
+08/19/2021 11:33:03 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 11:33:03 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 9.393
+08/19/2021 11:33:03 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 11:33:03 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 11:33:03 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 11:33:03 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.000)
+08/19/2021 11:33:03 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 11:33:03 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 9.401
+08/19/2021 11:33:03 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 9.396
+08/19/2021 11:33:04 AM - INFO - logger.py: 
+*****************************
+08/19/2021 11:33:04 AM - INFO - logger.py: * Evaluating Batch Number 1 *
+08/19/2021 11:33:04 AM - INFO - logger.py: *****************************
+08/19/2021 11:33:04 AM - INFO - logger.py: 
+08/19/2021 11:33:20 AM - INFO - engine_base.py: Elastic Net Classifier w/ Imputer + Standard Scaler:
+08/19/2021 11:33:20 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 11:33:20 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 11:33:20 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 11:33:20 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 11:33:20 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.201)
+08/19/2021 11:33:20 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 11:33:20 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.562
+08/19/2021 11:33:20 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 11:33:20 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 11:33:20 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 11:33:20 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.240)
+08/19/2021 11:33:20 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 11:33:20 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.555
+08/19/2021 11:33:20 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 11:33:20 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 11:33:20 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 11:33:20 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.242)
+08/19/2021 11:33:20 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 11:33:20 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.559
+08/19/2021 11:33:20 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.559
+08/19/2021 11:33:27 AM - INFO - engine_base.py: Decision Tree Classifier w/ Imputer:
+08/19/2021 11:33:27 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 11:33:27 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 11:33:27 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 11:33:27 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 11:33:27 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.377)
+08/19/2021 11:33:27 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 11:33:27 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.637
+08/19/2021 11:33:27 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 11:33:27 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 11:33:27 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 11:33:27 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.250)
+08/19/2021 11:33:27 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 11:33:27 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.562
+08/19/2021 11:33:27 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 11:33:27 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 11:33:27 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 11:33:27 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (-0.000)
+08/19/2021 11:33:27 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 11:33:27 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.609
+08/19/2021 11:33:27 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.603
+08/19/2021 11:33:44 AM - INFO - engine_base.py: Random Forest Classifier w/ Imputer:
+08/19/2021 11:33:44 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 11:33:44 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 11:33:44 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 11:33:44 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 11:33:44 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.344)
+08/19/2021 11:33:44 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 11:33:44 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.466
+08/19/2021 11:33:44 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 11:33:44 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 11:33:44 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 11:33:44 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.326)
+08/19/2021 11:33:44 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 11:33:44 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.466
+08/19/2021 11:33:44 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 11:33:44 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 11:33:44 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 11:33:44 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.293)
+08/19/2021 11:33:44 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 11:33:44 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.462
+08/19/2021 11:33:44 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.464
+08/19/2021 11:45:08 AM - INFO - automl_search.py: Generating pipelines to search over...
+08/19/2021 11:45:10 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:45:10 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:45:10 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:45:10 AM - DEBUG - automl_search.py: allowed_estimators set to ['Decision Tree Classifier', 'LightGBM Classifier', 'Extra Trees Classifier', 'Elastic Net Classifier', 'CatBoost Classifier', 'XGBoost Classifier', 'Random Forest Classifier', 'Logistic Regression Classifier']
+08/19/2021 11:45:10 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:45:10 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:45:10 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:45:10 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:45:10 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:45:10 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:45:10 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:45:10 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:45:10 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:45:10 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:45:10 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:45:11 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:45:11 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:45:11 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:45:11 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:45:11 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:45:11 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:45:11 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:45:11 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:45:11 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:45:11 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:45:11 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:45:11 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:45:11 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:45:11 AM - INFO - automl_search.py: 8 pipelines ready for search.
+08/19/2021 11:45:11 AM - DEBUG - automl_search.py: allowed_pipelines set to ['Decision Tree Classifier w/ Imputer', 'LightGBM Classifier w/ Imputer', 'Extra Trees Classifier w/ Imputer', 'Elastic Net Classifier w/ Imputer + Standard Scaler', 'CatBoost Classifier w/ Imputer', 'XGBoost Classifier w/ Imputer', 'Random Forest Classifier w/ Imputer', 'Logistic Regression Classifier w/ Imputer + Standard Scaler']
+08/19/2021 11:45:11 AM - DEBUG - automl_search.py: allowed_model_families set to [ModelFamily.EXTRA_TREES, ModelFamily.RANDOM_FOREST, ModelFamily.LINEAR_MODEL, ModelFamily.LIGHTGBM, ModelFamily.CATBOOST, ModelFamily.XGBOOST, ModelFamily.DECISION_TREE]
+08/19/2021 11:45:11 AM - INFO - logger.py: 
+*****************************
+08/19/2021 11:45:11 AM - INFO - logger.py: * Beginning pipeline search *
+08/19/2021 11:45:11 AM - INFO - logger.py: *****************************
+08/19/2021 11:45:11 AM - INFO - logger.py: 
+08/19/2021 11:45:11 AM - INFO - automl_search.py: Optimizing for Log Loss Binary. 
+08/19/2021 11:45:11 AM - INFO - automl_search.py: Lower score is better.
+
+08/19/2021 11:45:11 AM - INFO - automl_search.py: Using SequentialEngine to train and score pipelines.
+08/19/2021 11:45:11 AM - INFO - automl_search.py: Will stop searching for new pipelines after 300 seconds.
+
+08/19/2021 11:45:11 AM - INFO - automl_search.py: Allowed model families: extra_trees, random_forest, linear_model, lightgbm, catboost, xgboost, decision_tree
+
+08/19/2021 11:45:13 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:45:13 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:45:13 AM - INFO - automl_search.py: Evaluating Baseline Pipeline: Mode Baseline Binary Classification Pipeline
+08/19/2021 11:45:23 AM - INFO - engine_base.py: Mode Baseline Binary Classification Pipeline:
+08/19/2021 11:45:23 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 11:45:23 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 11:45:23 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 11:45:23 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 11:45:23 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.000)
+08/19/2021 11:45:23 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 11:45:23 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 9.254
+08/19/2021 11:45:23 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 11:45:23 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 11:45:23 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 11:45:23 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.000)
+08/19/2021 11:45:23 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 11:45:23 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 9.254
+08/19/2021 11:45:23 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 11:45:23 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 11:45:23 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 11:45:23 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.000)
+08/19/2021 11:45:23 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 11:45:23 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 9.254
+08/19/2021 11:45:23 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 9.254
+08/19/2021 11:45:23 AM - INFO - logger.py: 
+*****************************
+08/19/2021 11:45:23 AM - INFO - logger.py: * Evaluating Batch Number 1 *
+08/19/2021 11:45:23 AM - INFO - logger.py: *****************************
+08/19/2021 11:45:23 AM - INFO - logger.py: 
+08/19/2021 11:45:34 AM - INFO - engine_base.py: Elastic Net Classifier w/ Imputer + Standard Scaler:
+08/19/2021 11:45:34 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 11:45:34 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 11:45:34 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 11:45:34 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 11:45:34 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.202)
+08/19/2021 11:45:34 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 11:45:34 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.557
+08/19/2021 11:45:34 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 11:45:34 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 11:45:34 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 11:45:34 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.258)
+08/19/2021 11:45:34 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 11:45:34 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.551
+08/19/2021 11:45:34 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 11:45:34 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 11:45:34 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 11:45:34 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.234)
+08/19/2021 11:45:34 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 11:45:34 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.554
+08/19/2021 11:45:34 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.554
+08/19/2021 11:45:42 AM - INFO - engine_base.py: Decision Tree Classifier w/ Imputer:
+08/19/2021 11:45:42 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 11:45:42 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 11:45:42 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 11:45:42 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 11:45:42 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.267)
+08/19/2021 11:45:42 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 11:45:42 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.601
+08/19/2021 11:45:42 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 11:45:42 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 11:45:42 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 11:45:42 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.255)
+08/19/2021 11:45:42 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 11:45:42 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.635
+08/19/2021 11:45:42 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 11:45:42 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 11:45:42 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 11:45:42 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (-0.000)
+08/19/2021 11:45:42 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 11:45:42 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.662
+08/19/2021 11:45:42 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.633
+08/19/2021 11:46:01 AM - INFO - engine_base.py: Random Forest Classifier w/ Imputer:
+08/19/2021 11:46:01 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 11:46:01 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 11:46:01 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 11:46:01 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 11:46:01 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.300)
+08/19/2021 11:46:01 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 11:46:01 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.453
+08/19/2021 11:46:01 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 11:46:01 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 11:46:01 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 11:46:01 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.305)
+08/19/2021 11:46:01 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 11:46:01 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.457
+08/19/2021 11:46:01 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 11:46:01 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 11:46:01 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 11:46:01 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.300)
+08/19/2021 11:46:01 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 11:46:01 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.453
+08/19/2021 11:46:01 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.454
+08/19/2021 11:53:57 AM - INFO - engine_base.py: LightGBM Classifier w/ Imputer:
+08/19/2021 11:53:57 AM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 11:53:57 AM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 11:53:57 AM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 11:53:57 AM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 11:53:57 AM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.374)
+08/19/2021 11:53:57 AM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 11:53:57 AM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.385
+08/19/2021 11:53:57 AM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 11:53:57 AM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 11:53:57 AM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 11:53:57 AM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.318)
+08/19/2021 11:53:57 AM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 11:53:57 AM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.384
+08/19/2021 11:53:57 AM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 11:53:57 AM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 11:53:57 AM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 11:53:57 AM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.346)
+08/19/2021 11:53:57 AM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 11:53:57 AM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.392
+08/19/2021 11:53:57 AM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.387
+08/19/2021 11:53:58 AM - INFO - automl_search.py: 
+Search finished after 08:44            
+08/19/2021 11:56:38 AM - INFO - automl_search.py: Best pipeline: LightGBM Classifier w/ Imputer
+08/19/2021 11:56:38 AM - INFO - automl_search.py: Best pipeline Log Loss Binary: 0.386912
+08/19/2021 11:59:07 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 11:59:07 AM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 02:18:39 PM - INFO - automl_search.py: Generating pipelines to search over...
+08/19/2021 02:18:45 PM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 02:18:46 PM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 02:18:46 PM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 02:18:46 PM - DEBUG - automl_search.py: allowed_estimators set to ['Decision Tree Classifier', 'LightGBM Classifier', 'Extra Trees Classifier', 'Elastic Net Classifier', 'CatBoost Classifier', 'XGBoost Classifier', 'Random Forest Classifier', 'Logistic Regression Classifier']
+08/19/2021 02:18:46 PM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 02:18:46 PM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 02:18:46 PM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 02:18:47 PM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 02:18:47 PM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 02:18:47 PM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 02:18:47 PM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 02:18:47 PM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 02:18:47 PM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 02:18:47 PM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 02:18:47 PM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 02:18:47 PM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 02:18:47 PM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 02:18:47 PM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 02:18:47 PM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 02:18:48 PM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 02:18:48 PM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 02:18:48 PM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 02:18:48 PM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 02:18:48 PM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 02:18:48 PM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 02:18:48 PM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 02:18:48 PM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 02:18:48 PM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 02:18:48 PM - INFO - automl_search.py: 8 pipelines ready for search.
+08/19/2021 02:18:48 PM - DEBUG - automl_search.py: allowed_pipelines set to ['Decision Tree Classifier w/ Imputer', 'LightGBM Classifier w/ Imputer', 'Extra Trees Classifier w/ Imputer', 'Elastic Net Classifier w/ Imputer + Standard Scaler', 'CatBoost Classifier w/ Imputer', 'XGBoost Classifier w/ Imputer', 'Random Forest Classifier w/ Imputer', 'Logistic Regression Classifier w/ Imputer + Standard Scaler']
+08/19/2021 02:18:48 PM - DEBUG - automl_search.py: allowed_model_families set to [ModelFamily.LINEAR_MODEL, ModelFamily.CATBOOST, ModelFamily.LIGHTGBM, ModelFamily.DECISION_TREE, ModelFamily.RANDOM_FOREST, ModelFamily.XGBOOST, ModelFamily.EXTRA_TREES]
+08/19/2021 02:18:50 PM - INFO - logger.py: 
+*****************************
+08/19/2021 02:18:50 PM - INFO - logger.py: * Beginning pipeline search *
+08/19/2021 02:18:50 PM - INFO - logger.py: *****************************
+08/19/2021 02:18:50 PM - INFO - logger.py: 
+08/19/2021 02:18:50 PM - INFO - automl_search.py: Optimizing for Log Loss Binary. 
+08/19/2021 02:18:50 PM - INFO - automl_search.py: Lower score is better.
+
+08/19/2021 02:18:50 PM - INFO - automl_search.py: Using SequentialEngine to train and score pipelines.
+08/19/2021 02:18:50 PM - INFO - automl_search.py: Will stop searching for new pipelines after 300 seconds.
+
+08/19/2021 02:18:50 PM - INFO - automl_search.py: Allowed model families: linear_model, catboost, lightgbm, decision_tree, random_forest, xgboost, extra_trees
+
+08/19/2021 02:18:58 PM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 02:19:00 PM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 02:19:00 PM - INFO - automl_search.py: Evaluating Baseline Pipeline: Mode Baseline Binary Classification Pipeline
+08/19/2021 02:19:19 PM - INFO - engine_base.py: Mode Baseline Binary Classification Pipeline:
+08/19/2021 02:19:19 PM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 02:19:19 PM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 02:19:19 PM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 02:19:19 PM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 02:19:19 PM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.000)
+08/19/2021 02:19:19 PM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 02:19:19 PM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 9.193
+08/19/2021 02:19:19 PM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 02:19:19 PM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 02:19:19 PM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 02:19:19 PM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.000)
+08/19/2021 02:19:19 PM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 02:19:19 PM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 9.184
+08/19/2021 02:19:19 PM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 02:19:19 PM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 02:19:19 PM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 02:19:19 PM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.000)
+08/19/2021 02:19:19 PM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 02:19:19 PM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 9.184
+08/19/2021 02:19:19 PM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 9.187
+08/19/2021 02:19:19 PM - INFO - logger.py: 
+*****************************
+08/19/2021 02:19:19 PM - INFO - logger.py: * Evaluating Batch Number 1 *
+08/19/2021 02:19:19 PM - INFO - logger.py: *****************************
+08/19/2021 02:19:19 PM - INFO - logger.py: 
+08/19/2021 02:19:41 PM - INFO - engine_base.py: Elastic Net Classifier w/ Imputer + Standard Scaler:
+08/19/2021 02:19:41 PM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 02:19:41 PM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 02:19:41 PM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 02:19:41 PM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 02:19:41 PM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.246)
+08/19/2021 02:19:41 PM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 02:19:41 PM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.552
+08/19/2021 02:19:41 PM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 02:19:41 PM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 02:19:41 PM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 02:19:41 PM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.229)
+08/19/2021 02:19:41 PM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 02:19:41 PM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.549
+08/19/2021 02:19:41 PM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 02:19:41 PM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 02:19:41 PM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 02:19:41 PM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.236)
+08/19/2021 02:19:41 PM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 02:19:41 PM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.555
+08/19/2021 02:19:41 PM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.552
+08/19/2021 02:20:01 PM - INFO - engine_base.py: Decision Tree Classifier w/ Imputer:
+08/19/2021 02:20:01 PM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 02:20:01 PM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 02:20:01 PM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 02:20:01 PM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 02:20:01 PM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.455)
+08/19/2021 02:20:01 PM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 02:20:01 PM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.632
+08/19/2021 02:20:01 PM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 02:20:01 PM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 02:20:01 PM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 02:20:01 PM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.370)
+08/19/2021 02:20:01 PM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 02:20:01 PM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.551
+08/19/2021 02:20:01 PM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 02:20:01 PM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 02:20:01 PM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 02:20:01 PM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.310)
+08/19/2021 02:20:01 PM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 02:20:01 PM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.561
+08/19/2021 02:20:01 PM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.581
+08/19/2021 02:20:33 PM - INFO - engine_base.py: Random Forest Classifier w/ Imputer:
+08/19/2021 02:20:33 PM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 02:20:33 PM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 02:20:33 PM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 02:20:33 PM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 02:20:33 PM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.339)
+08/19/2021 02:20:33 PM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 02:20:33 PM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.451
+08/19/2021 02:20:33 PM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 02:20:33 PM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 02:20:33 PM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 02:20:33 PM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.307)
+08/19/2021 02:20:33 PM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 02:20:33 PM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.456
+08/19/2021 02:20:33 PM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 02:20:33 PM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 02:20:33 PM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 02:20:33 PM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.326)
+08/19/2021 02:20:33 PM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 02:20:33 PM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.468
+08/19/2021 02:20:33 PM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.458
+08/19/2021 02:30:15 PM - INFO - engine_base.py: LightGBM Classifier w/ Imputer:
+08/19/2021 02:30:15 PM - INFO - engine_base.py: 	Starting cross validation
+08/19/2021 02:30:15 PM - DEBUG - engine_base.py: 		Training and scoring on fold 0
+08/19/2021 02:30:15 PM - DEBUG - engine_base.py: 			Fold 0: starting training
+08/19/2021 02:30:15 PM - DEBUG - engine_base.py: 			Fold 0: finished training
+08/19/2021 02:30:15 PM - DEBUG - engine_base.py: 			Fold 0: Optimal threshold found (0.275)
+08/19/2021 02:30:15 PM - DEBUG - engine_base.py: 			Fold 0: Scoring trained pipeline
+08/19/2021 02:30:15 PM - DEBUG - engine_base.py: 			Fold 0: Log Loss Binary score: 0.373
+08/19/2021 02:30:15 PM - DEBUG - engine_base.py: 		Training and scoring on fold 1
+08/19/2021 02:30:15 PM - DEBUG - engine_base.py: 			Fold 1: starting training
+08/19/2021 02:30:15 PM - DEBUG - engine_base.py: 			Fold 1: finished training
+08/19/2021 02:30:15 PM - DEBUG - engine_base.py: 			Fold 1: Optimal threshold found (0.378)
+08/19/2021 02:30:15 PM - DEBUG - engine_base.py: 			Fold 1: Scoring trained pipeline
+08/19/2021 02:30:15 PM - DEBUG - engine_base.py: 			Fold 1: Log Loss Binary score: 0.389
+08/19/2021 02:30:15 PM - DEBUG - engine_base.py: 		Training and scoring on fold 2
+08/19/2021 02:30:15 PM - DEBUG - engine_base.py: 			Fold 2: starting training
+08/19/2021 02:30:15 PM - DEBUG - engine_base.py: 			Fold 2: finished training
+08/19/2021 02:30:15 PM - DEBUG - engine_base.py: 			Fold 2: Optimal threshold found (0.349)
+08/19/2021 02:30:15 PM - DEBUG - engine_base.py: 			Fold 2: Scoring trained pipeline
+08/19/2021 02:30:15 PM - DEBUG - engine_base.py: 			Fold 2: Log Loss Binary score: 0.408
+08/19/2021 02:30:15 PM - INFO - engine_base.py: 	Finished cross validation - mean Log Loss Binary: 0.390
+08/19/2021 02:30:15 PM - INFO - automl_search.py: 
+Search finished after 11:17            
+08/19/2021 02:33:28 PM - INFO - automl_search.py: Best pipeline: LightGBM Classifier w/ Imputer
+08/19/2021 02:33:28 PM - INFO - automl_search.py: Best pipeline Log Loss Binary: 0.390168
+08/19/2021 02:36:32 PM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses
+08/19/2021 02:36:32 PM - DEBUG - gen_utils.py: Could not import class ProphetRegressor in get_importable_subclasses

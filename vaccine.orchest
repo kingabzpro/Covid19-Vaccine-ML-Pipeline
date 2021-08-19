@@ -19,8 +19,8 @@
             "meta_data": {
                 "hidden": false,
                 "position": [
-                    870.25,
-                    102.25
+                    776.9548054919908,
+                    289.18363844393593
                 ]
             },
             "parameters": {},
@@ -40,8 +40,8 @@
             "meta_data": {
                 "hidden": false,
                 "position": [
-                    869,
-                    234.5
+                    775.7048054919908,
+                    430.2571678557006
                 ]
             },
             "parameters": {},
@@ -59,8 +59,8 @@
             "meta_data": {
                 "hidden": false,
                 "position": [
-                    40.5,
-                    201
+                    111.55263157894728,
+                    368.36842105263156
                 ]
             },
             "parameters": {},
@@ -80,8 +80,8 @@
             "meta_data": {
                 "hidden": false,
                 "position": [
-                    310.5,
-                    334.5652173913044
+                    394.8383458646615,
+                    557.9336384439358
                 ]
             },
             "parameters": {},
@@ -104,8 +104,8 @@
             "meta_data": {
                 "hidden": false,
                 "position": [
-                    1190.75,
-                    182.5
+                    1187.1069794050343,
+                    391.3032036613272
                 ]
             },
             "parameters": {},
@@ -128,8 +128,8 @@
             "meta_data": {
                 "hidden": false,
                 "position": [
-                    1197,
-                    366.25
+                    1189.3569794050343,
+                    573.0532036613272
                 ]
             },
             "parameters": {},
@@ -149,8 +149,8 @@
             "meta_data": {
                 "hidden": false,
                 "position": [
-                    869.6190476190477,
-                    508.4761904761905
+                    776.3238531110385,
+                    695.4098289201264
                 ]
             },
             "parameters": {},
@@ -171,8 +171,8 @@
             "meta_data": {
                 "hidden": false,
                 "position": [
-                    1517.1046511627908,
-                    281.7906976744186
+                    1436.852934915651,
+                    476.5504230748762
                 ]
             },
             "parameters": {},
@@ -192,19 +192,19 @@
             "meta_data": {
                 "hidden": false,
                 "position": [
-                    309.5,
-                    202.39130434782606
+                    388.1240601503757,
+                    266.6168682576004
                 ]
             },
             "parameters": {},
             "title": "AutoML",
             "uuid": "ca71c67a-b5e4-4a66-9dd2-af96d16efe41"
         },
-        "de9b0dad-b97d-47ef-ab24-6b34fa4725f6": {
+        "cde90382-02fd-4e48-8ed7-47291d6c846b": {
             "environment": "4e3e3b13-882e-47db-b8f2-03a87620ea0d",
-            "file_path": "results.ipynb",
+            "file_path": "flaml.ipynb",
             "incoming_connections": [
-                "ca71c67a-b5e4-4a66-9dd2-af96d16efe41"
+                "713242d6-70a9-4987-9ad1-ab0be29e580c"
             ],
             "kernel": {
                 "display_name": "Python 3",
@@ -213,8 +213,30 @@
             "meta_data": {
                 "hidden": false,
                 "position": [
-                    566.8478260869565,
-                    2.8695652173912833
+                    391.07142857142844,
+                    408.8571428571429
+                ]
+            },
+            "parameters": {},
+            "title": "FLAML",
+            "uuid": "cde90382-02fd-4e48-8ed7-47291d6c846b"
+        },
+        "de9b0dad-b97d-47ef-ab24-6b34fa4725f6": {
+            "environment": "4e3e3b13-882e-47db-b8f2-03a87620ea0d",
+            "file_path": "results.ipynb",
+            "incoming_connections": [
+                "ca71c67a-b5e4-4a66-9dd2-af96d16efe41",
+                "cde90382-02fd-4e48-8ed7-47291d6c846b"
+            ],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    774.5475164894333,
+                    44.885045093552236
                 ]
             },
             "parameters": {},
@@ -234,8 +256,8 @@
             "meta_data": {
                 "hidden": false,
                 "position": [
-                    869,
-                    371.25
+                    775.7048054919908,
+                    558.1836384439358
                 ]
             },
             "parameters": {},
@@ -255,8 +277,8 @@
             "meta_data": {
                 "hidden": false,
                 "position": [
-                    306.5,
-                    73.69565217391306
+                    388.08957739175514,
+                    128.20693036940173
                 ]
             },
             "parameters": {},

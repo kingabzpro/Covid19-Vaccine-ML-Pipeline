@@ -6,3 +6,5 @@
 
 # pip install imblearn
 pip install --ignore-installed evalml
+pip install flaml
+pip install nbconvert==5.6.1

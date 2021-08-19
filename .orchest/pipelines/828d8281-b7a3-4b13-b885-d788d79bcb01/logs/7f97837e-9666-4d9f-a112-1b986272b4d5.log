@@ -1,1 +1,12 @@
-582689dd-037f-4787-9109-a1a66ea0955c
+b51f425f-c6dc-41df-b024-3898429f97fb
+[1] /opt/conda/lib/python3.7/site-packages/requests/__init__.py:91: RequestsDependencyWarning: urllib3 (1.26.6) or chardet (3.0.4) doesn't match a supported version!
+  RequestsDependencyWarning)
+
+[4] (14907, 10) (14907,)
+(21186, 10) (21186,)
+/opt/conda/lib/python3.7/site-packages/imblearn/utils/_validation.py:591: FutureWarning: Pass sampling_strategy=0.95 as keyword args. From version 0.9 passing these as positional arguments will result in an error
+  FutureWarning,
+
+[7] 0    2169
+1    2069
+Name: target, dtype: int64
