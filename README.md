@@ -12,7 +12,7 @@ Designing your first machine learning pipeline with few lines of codes and simpl
 ## Data
 [<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle_Dataset-161616?logo=Kaggle&style=for-the-badge" />](https://www.kaggle.com/futurecorporation/epitope-prediction)
 
-We are going to utilize SARS-CoV and B-cell datasets to classify peptides into two categories, antibodies with inducing properties are labeled as positive (1) and antibodies without inducing properties are labeled as negative(0). To learn more about the dataset read the research paper.
+We are going to utilize SARS-CoV and B-cell datasets to classify peptides into two categories, antibodies with inducing properties are labeled as positive (1) and antibodies without inducing properties are labeled as negative(0). To learn more about the dataset read the [research paper](https://medium.com/r/?url=https%3A%2F%2Fwww.biorxiv.org%2Fcontent%2F10.1101%2F2020.07.27.224121v1).
 
 ## ML Pipeline
 ![image](https://user-images.githubusercontent.com/36753484/131174504-6d8f27c6-a5da-4d2b-b40b-a0f3e39f945c.png)
