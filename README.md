@@ -12,7 +12,7 @@ Designing your first machine learning pipeline with few lines of codes and simpl
 ## Data
 [<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle_Dataset-161616?logo=Kaggle&style=for-the-badge" />](https://www.kaggle.com/futurecorporation/epitope-prediction)
 
-The epitope data obtained from IEDB corresponded to the five types of activity: "Positive-High," "Positive-Intermediate," "Positive-Low," "Positive," and "Negative." However, due to the limited number of data elements marked with the "Positive-High," "Positive-Intermediate," and "Positive-Low" labels, we equally considered these labels as "Positive", thereby attributing the task to a binary estimation.
+We are going to utilize SARS-CoV and B-cell datasets to classify peptides into two categories, antibodies with inducing properties are labeled as positive (1) and antibodies without inducing properties are labeled as negative(0). To learn more about the dataset read the research paper.
 
 ## ML Pipeline
 ![image](https://user-images.githubusercontent.com/36753484/131174504-6d8f27c6-a5da-4d2b-b40b-a0f3e39f945c.png)
