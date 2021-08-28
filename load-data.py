@@ -9,7 +9,7 @@ covid = pd.read_csv(f"{INPUT_DIR}/input_covid.csv")
 sars = pd.read_csv(f"{INPUT_DIR}/input_sars.csv")
 bcell_sars = pd.concat([bcell, sars], axis=0, ignore_index=True)
 
-# Output the housing data so the next steps can retrieve it.
+# Output the Vaccine data
 print("Outputting converted Vaccine data...")
 orchest.output((bcell, covid, sars, bcell_sars), name="data")
 print(bcell_sars.shape)
