@@ -5,7 +5,7 @@ Image by Author | Elements by [Vecteezy](https://medium.com/r/?url=https%3A%2F%2
 
 
 
-Designing your first machine learning pipeline with few lines of codes and simple drag and drop using Orchest. You will learn to preprocess the data, train the machine learning model, and eventually evaluate the results. In this project we will train binary classification model to predict epitope which is used for vaccine development.
+Designing your first machine learning pipeline with few lines of codes and simple drag & drop using Orchest. You will learn to preprocess the data, train the machine learning model, and eventually evaluate the results. In this project we will train binary classification model to predict epitope which is used for vaccine development.
 
 [<img src="https://user-images.githubusercontent.com/36753484/131175042-8fe07c0e-ef3a-497b-935a-b2ee7815f31e.png" alt="orchest" width="200"/>](https://github.com/orchest/orchest)
 
