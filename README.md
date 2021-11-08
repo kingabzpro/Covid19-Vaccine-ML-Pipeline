@@ -20,3 +20,4 @@ We are going to utilize SARS-CoV and B-cell datasets to classify peptides into t
 ## Results
 ![image](https://user-images.githubusercontent.com/36753484/131174584-0bcdc37a-09b6-43f0-9e8f-a7083e190d60.png)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T45YP5N)
